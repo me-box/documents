@@ -2,7 +2,7 @@
 
 The files in the repository are general development guides and specs. Databox has a number of platform components, detailed information about each can be found in their own  repositories:
 
-* [Databox container manger](https://github.com/me-box/databox) 
+* [Databox container manager](https://github.com/me-box/databox) 
 
 * [databox-arbiter](https://github.com/me-box/databox-arbiter)
 
